@@ -1,7 +1,7 @@
 import requests
 
 
-url = 'http://localhost:9696/predict_web'
+url = 'http://localhost:9696/predict'
 
 client_id = 'xyz-123'
 client = {"reports": 0, 
